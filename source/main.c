@@ -452,7 +452,6 @@ static u16 LightPatterns[17][255] = {
      0x1110,
      0x1100,
      0x00FF,
-
      0x00FF,
      0x00FF,
      0x00FF,
@@ -485,7 +484,6 @@ static u16 LightPatterns[17][255] = {
      0x00FF,
      0x00FF,
      0x00FF,
-
      0x00FF,
      0x00FF,
      0x00FF,
@@ -518,7 +516,6 @@ static u16 LightPatterns[17][255] = {
      0x00FF,
      0x00FF,
      0x00FF,
-
      0x00FF,
      0x00FF,
      0x00FF,
@@ -583,7 +580,6 @@ static u16 LightPatterns[17][255] = {
      0x1110,
      0x1100,
      0x00FF,
-
      0x00FF,
      0x00FF,
      0x00FF,
@@ -616,7 +612,6 @@ static u16 LightPatterns[17][255] = {
      0x00FF,
      0x00FF,
      0x00FF,
-
      0x00FF,
      0x00FF,
      0x00FF,
@@ -649,7 +644,6 @@ static u16 LightPatterns[17][255] = {
      0x00FF,
      0x00FF,
      0x00FF,
-
      0x00FF,
      0x00FF,
      0x00FF,
