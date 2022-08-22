@@ -2,8 +2,8 @@
 <app version='1.0'>
     <name>GlowWii</name>
     <coder>Larsenv</coder>
-    <version>1.0</version>
-    <release_date>20220421000000</release_date>
+    <version>1.1</version>
+    <release_date>20220822000000</release_date>
     <short_description>Make your Wii disc drive light glow.</short_description>
     <long_description>GlowWii is an app to illuminate your Wii disc drive light. Unlike other apps that have been made, this app supports using illumination patterns that Nintendo made (for example, the pattern for when you get a Wii message, which mimics the call of a bush warbler).
     

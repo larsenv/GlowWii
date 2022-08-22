@@ -294,7 +294,7 @@ MENU:
         resetscreen();
 
         printf("\x1B[%d;%dH", 5, 0); // move console cursor to y/x
-        printf("GlowWii v1.0 - By Larsenv\n\n");
+        printf("GlowWii v1.1 - By Larsenv\n\n");
 
         if (isDolphin())
         {
