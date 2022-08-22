@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ogcsys.h>
+#include <wupc/wupc.h>
 #include <wiiuse/wpad.h>
 #include "patterns.h"
 
@@ -468,6 +469,8 @@ int solidlightmenu()
 int main(int argc, char **argv)
 {
     VIDEO_Init();
+    PAD_Init();
+    WUPC_Init();
     WPAD_Init();
 
     rmode = VIDEO_GetPreferredMode(NULL);
